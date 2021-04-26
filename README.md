@@ -6,3 +6,7 @@
 2. 3Ms,Quartile,Range of Random Data
   - 3Ms = Mean+Median+Mode
   - Quartile function is quantile (but don't get confused pls)
+
+3. Plotting sin(x) and cos(x) graphs on the same figure window
+  - Adding main title label to the figure window
+  - Adding subtitle label to the figure window
