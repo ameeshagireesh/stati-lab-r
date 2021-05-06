@@ -26,3 +26,7 @@
 6. Area Under Curve
 
    ![image](https://user-images.githubusercontent.com/67223373/117360549-fe1e7300-aec9-11eb-98a6-2fb3995d932b.png)
+
+7. Sequences and Plotting Proportions/Probabilities
+
+   ![image](https://user-images.githubusercontent.com/67223373/117360754-37ef7980-aeca-11eb-8937-f08f0d07bcf3.png)
