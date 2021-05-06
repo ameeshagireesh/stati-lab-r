@@ -22,3 +22,6 @@
 5. Probability
 
    ![image](https://user-images.githubusercontent.com/67223373/117360375-c57e9980-aec9-11eb-887d-2d0abf812dc0.png)
+
+6. Area Under Curve
+   ![image](https://user-images.githubusercontent.com/67223373/117360549-fe1e7300-aec9-11eb-98a6-2fb3995d932b.png)
