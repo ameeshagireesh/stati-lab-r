@@ -15,7 +15,10 @@
   - The owner of a small garment shop is hopeful that his sales are rising significantly
     week by week. Treating the sales for the previous 6 weeks as a typical example of this
     rising trend, he recorded them in Rs. 1000’s and analysed the results.
-  - ![image](https://user-images.githubusercontent.com/67223373/117359894-1c37a380-aec9-11eb-9865-1de98f4f215b.png)
+   ![image](https://user-images.githubusercontent.com/67223373/117359894-1c37a380-aec9-11eb-9865-1de98f4f215b.png)
   - Fit a linear regression equation to suggest to him the weekly rate at which his sales
     are rising.
     
+5. Probability
+
+   ![image](https://user-images.githubusercontent.com/67223373/117360375-c57e9980-aec9-11eb-887d-2d0abf812dc0.png)
