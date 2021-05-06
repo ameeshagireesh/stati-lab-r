@@ -1,0 +1,6 @@
+x = seq(-3,3, length=200)
+y = dnorm (x)
+plot(x,y,type = "l", lwd=5, col="blue", main="Ameesha Gireesh Kumar", sub ="20BCB0107")
+x=seq(0, 1.6, length=200)
+y=dnorm(x)
+polygon(c(0,x,1.6), c(0,y,0), col="green")
