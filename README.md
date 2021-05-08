@@ -30,3 +30,5 @@
 7. Sequences and Plotting Proportions/Probabilities
 
    ![image](https://user-images.githubusercontent.com/67223373/117360754-37ef7980-aeca-11eb-8937-f08f0d07bcf3.png)
+   
+8. Linear Regression
